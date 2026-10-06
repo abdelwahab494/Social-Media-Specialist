@@ -1,0 +1,281 @@
+{
+    "linkes": {
+        "LinkedIn": "https://www.linkedin.com/in/abd-el-wahab-mohamed/",
+        "Github": "https://github.com/abdelwahab494",
+        "Facebook": "https://www.facebook.com/abdulwahab.elnagar",
+        "Whatsapp": "https://wa.me/201061288457",
+        "Instagram": "https://www.instagram.com/_abd_elwahab_?igsh=d3l5ZnRlazkyb2V1",
+        "Resume": "https://abdelwahab494.github.io/Abdelwahab-Portfolio/content/Abdelwahab%20Mohamed%20Abdelwahab%20-%20Flutter%20Developer%20CV.pdf",
+        "Home Image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/profile/home.jpg",
+        "About Image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/profile/about.jpg"
+    },
+    "case studies": [
+        {
+            "title": "Al-Tayseer International",
+            "subtitle": "Social Media Management & Content Creation",
+            "category": "Hospitality & Hotel Booking",
+            "duration": "1 Year & 2 Months",
+            "logo": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/logo.jpg",
+            "overview": "Managed social media pages, produced daily content, and developed content strategies focused on growing the online presence of a hotel booking company specializing in Makkah and Madinah.",
+            "role": [
+                "Content Creation",
+                "Video Editing",
+                "Content Ideas",
+                "Publishing",
+                "Community Management",
+                "Growth"
+            ],
+            "contentItems": [
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/1.png",
+                    "platform": "Instagram Reel",
+                    "title": "The cheapest 5-star hotel among the Clock Tower hotels.",
+                    "views": "1.1M Views",
+                    "link": "https://www.instagram.com/reels/DZXpG66jVR4/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/2.png",
+                    "platform": "Instagram Reel",
+                    "title": "Imagine staying at a hotel overlooking the Haram at an incredible price.",
+                    "views": "757K Views",
+                    "link": "https://www.instagram.com/reels/DU86UZBDPuX/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/3.png",
+                    "platform": "Instagram Reel",
+                    "title": "The 4 Best Apps to Help You with Umrah",
+                    "views": "429K Views",
+                    "link": "https://www.instagram.com/reels/DQRnCO-ikq7/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/4.png",
+                    "platform": "Instagram Reel",
+                    "title": "One of the hotels that every pilgrim wishes they knew about before booking.",
+                    "views": "120K Views",
+                    "link": "https://www.instagram.com/reels/Dbn1FD_gsou/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/5.png",
+                    "platform": "Instagram Reel",
+                    "title": "Here, the best of mankind was born… in Makkah Al-Mukarramah.",
+                    "views": "74.4K Views",
+                    "link": "https://www.instagram.com/reels/Dcd5nQmikD5/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/6.PNG",
+                    "platform": "Instagram Reel",
+                    "title": "Suite Tour",
+                    "views": "41K Views",
+                    "link": "https://www.instagram.com/reels/DbFymmWlaKz/"
+                }
+            ],
+            "results": {
+                "views": {
+                    "title": "Views",
+                    "before": "9.96M",
+                    "after": "36.1M"
+                },
+                "followers": {
+                    "title": "Followers",
+                    "before": "76.2K",
+                    "after": "224K"
+                },
+                "reach": {
+                    "title": "Viewers",
+                    "before": "1.76M",
+                    "after": "10.8M"
+                },
+                "engagement": {
+                    "title": "Engagement",
+                    "before": "310.7K",
+                    "after": "969.2K"
+                }
+            },
+            "proofs": [
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/proofs/facebook-before.PNG",
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/proofs/facebook-after.PNG",
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/proofs/insta-before.PNG",
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/proofs/insta-after.PNG",
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/proofs/tiktok-followers.jpeg",
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/proofs/tiktok-views.jpeg"
+            ],
+            "socialLinks": {
+                "instagram": "https://www.instagram.com/al_tayseer__int/",
+                "facebook": "https://www.facebook.com/profile.php?id=61571849722442",
+                "tiktok": "https://www.tiktok.com/@altayseerr_int",
+                "youtube": "https://www.youtube.com/@Altayseer_INT",
+                "x": "https://x.com/Al_tayseer2",
+                "snapchat": "https://www.snapchat.com/@altaysiralalami"
+            }
+        },
+        {
+            "title": "Bawabt Alhojozat",
+            "subtitle": "Social Media Specialist",
+            "category": "Hospitality",
+            "duration": "3 Months",
+            "logo": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/logo.jpeg",
+            "overview": "Managed social media pages, created daily content, and developed growth strategies for a hotel booking company specializing in Makkah and Madinah.",
+            "role": [
+                "Content Creation",
+                "Video Editing",
+                "Content Ideas",
+                "Publishing",
+                "Community Management",
+                "Growth"
+            ],
+            "contentItems": [
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/1.PNG",
+                    "platform": "TikTok Reel",
+                    "title": "If you have children and are coming for Umrah, where will you leave them?",
+                    "views": "450K",
+                    "link": "https://vt.tiktok.com/ZSbCD3sLm/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/2.PNG",
+                    "platform": "TikTok Reel",
+                    "title": "Make sure to increase your engagement in two things.",
+                    "views": "253.5K",
+                    "link": "https://vt.tiktok.com/ZSbCDnjUw/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/5.PNG",
+                    "platform": "Instahram Reel",
+                    "title": "Do not drink Zamzam water until after reciting this Duaa.",
+                    "views": "98.7K",
+                    "link": "https://www.instagram.com/reels/DdyrZXZIIw8/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/3.PNG",
+                    "platform": "Instagram Reel",
+                    "title": "The cheapest hotel with a view among the Clock Tower hotels.",
+                    "views": "97.5K",
+                    "link": "https://www.instagram.com/reels/DcD9IWkIIvY/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/4.PNG",
+                    "platform": "TikTok Reel",
+                    "title": "A neglected Sunnah of the Prophet.",
+                    "views": "80.7K",
+                    "link": "https://vt.tiktok.com/ZSbCDtAnY/"
+                },
+                {
+                    "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/6.PNG",
+                    "platform": "Instagram Reel",
+                    "title": "When you first enter the Haram and see the Kaaba... what do you say?",
+                    "views": "60.1K",
+                    "link": "https://www.instagram.com/reels/DdT0z5ZIra5/"
+                }
+            ],
+            "results": {
+                "views": {
+                    "title": "Views",
+                    "before": "0",
+                    "after": "2.49M"
+                },
+                "followers": {
+                    "title": "Followers",
+                    "before": "0",
+                    "after": "9.7K"
+                },
+                "reach": {
+                    "title": "Reach",
+                    "before": "0",
+                    "after": "1.15M"
+                },
+                "engagement": {
+                    "title": "Engagement",
+                    "before": "0",
+                    "after": "137K"
+                }
+            },
+            "socialLinks": {
+                "instagram": "https://www.instagram.com/bawabet_elhogozat/",
+                "tiktok": "https://www.tiktok.com/@bawabat.alhujuzat"
+            },
+            "proofs": [
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/proofs/instagram.PNG",
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/proofs/tiktok-views.PNG",
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/proofs/tiktok-viewers.PNG",
+                "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/proofs/tiktok-followers.PNG"
+            ]
+        }
+    ],
+    "capabilities": [
+        "SOCIAL MEDIA MANAGEMENT",
+        "CONTENT CREATION",
+        "CONTENT STRATEGY",
+        "CONTENT IDEATION",
+        "VIDEO EDITING",
+        "COMMUNITY MANAGEMENT",
+        "SOCIAL MEDIA ANALYTICS",
+        "SOCIAL MEDIA GROWTH"
+    ],
+    "experience": [
+        {
+            "title": "Social Media & Content Specialist",
+            "date": "Sep 2025 - Oct 2026",
+            "location": "Al-Tayseer International - Makkah, Saudi Arabia",
+            "detailes": [
+                "Managed the company's social media platforms and developed content focused on audience growth, engagement, and hotel booking inquiries.",
+                "Researched and developed new content ideas, wrote video scripts, and transformed concepts into engaging short-form videos.",
+                "Created hotel review, educational, and informational content tailored to the target audience.",
+                "Published and managed content across the company's social media platforms.",
+                "Monitored Stories, comments, and direct messages, directing potential customers toward the company's booking channels.",
+                "Prepared monthly content performance reports, covering published content, top-performing/viral content, performance insights, and new content ideas.",
+                "Analyzed content performance and continuously developed new formats and ideas to improve reach, views, engagement, and follower growth."
+            ]
+        },
+        {
+            "title": "Social Media Specialist",
+            "date": "Jan 2026 - May 2026",
+            "location": "ARM Gold - Makkah, Saudi Arabia",
+            "detailes": [
+                "Managed multiple social media accounts across different platforms for a hotel booking company specializing in Makkah and Madinah.",
+                "Developed and executed content ideas, from concept and scripting to video production and publishing.",
+                "Created short-form content including hotel reviews, informational content, and audience-focused videos.",
+                "Managed daily publishing, Stories, comments, and direct messages across multiple accounts and platforms.",
+                "Responded to customer inquiries and directed potential customers toward the company's booking channels."
+            ]
+        },
+        {
+            "title": "Social Media & Content Specialist",
+            "date": "Jul 2026 - Present",
+            "location": "Bawabt Alhojozat - Kafr El-Sheikh, Egypt",
+            "detailes": [
+                "Manage the company's social media presence across TikTok and Instagram, focusing on audience growth, engagement, and hotel booking inquiries.",
+                "Create and publish daily short-form Reels featuring hotel reviews, Makkah and Madinah hotel coverage, travel tips, and informational content.",
+                "Develop and execute new content ideas tailored to the target audience and the company's hotel booking services.",
+                "Handle daily content publishing, Stories, comments, and direct messages across both platforms.",
+                "Monitor audience interactions and respond to customer inquiries, directing potential customers toward the company's booking channels."
+            ]
+        }
+    ],
+    "content": {
+        "name": "Abdelwahab MO.",
+        "home breef": "An Egypt-based Social Media & Content Specialist focused on creating engaging content, managing social media platforms, and driving growth through creative and data-driven strategies.",
+        "case breef": "A selection of social media accounts I managed, developed, and grew through content creation, social media management, and performance-driven strategies.",
+        "about header": "I am a Social Media & Content Specialist based in Egypt. I have an Electrical & Computer Engineering background.",
+        "about content": "I'm a Social Media & Content Specialist from Egypt with a background in Electrical and Computer Engineering. I specialize in creating and developing social media content, video editing, platform management, community engagement, and performance analysis. I enjoy turning ideas into engaging content and using insights and results to continuously improve social media performance. Always eager to learn, experiment with new ideas, and grow in the digital content and social media field.",
+        "capabilities": "I specialize in social media management and content creation, combining creative ideas, engaging content, and data-driven insights to build and grow social media presence. I work across content development, video production, community management, performance analysis, and the tools and platforms that bring each idea to life.",
+        "email": "abdelwahab.mohamedd743@gmail.com"
+    },
+    "tools": [
+        "CapCut",
+        "After Effects",
+        "Premiere Pro",
+        "Meta Business Suite",
+        "Canva",
+        "Google Sheets",
+        "Eleven Labs",
+        "Google Flow"
+    ],
+    "platforms": [
+        "Instagram",
+        "Facebook",
+        "TikTok",
+        "Youtube",
+        "Snapchat",
+        "X"
+    ]
+}
