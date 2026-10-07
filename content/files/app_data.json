@@ -202,62 +202,179 @@
         }
     ],
     "capabilities": [
-        "SOCIAL MEDIA MANAGEMENT",
-        "CONTENT CREATION",
-        "CONTENT STRATEGY",
-        "CONTENT IDEATION",
-        "VIDEO EDITING",
-        "COMMUNITY MANAGEMENT",
-        "SOCIAL MEDIA ANALYTICS",
-        "SOCIAL MEDIA GROWTH"
+        {
+            "en": "SOCIAL MEDIA MANAGEMENT",
+            "ar": "إدارة السوشيال ميديا"
+        },
+        {
+            "en": "CONTENT CREATION",
+            "ar": "إنشاء المحتوى"
+        },
+        {
+            "en": "CONTENT STRATEGY",
+            "ar": "استراتيجية المحتوى"
+        },
+        {
+            "en": "CONTENT IDEATION",
+            "ar": "ابتكار أفكار المحتوى"
+        },
+        {
+            "en": "VIDEO EDITING",
+            "ar": "مونتاج الفيديو"
+        },
+        {
+            "en": "COMMUNITY MANAGEMENT",
+            "ar": "إدارة تفاعل الجمهور"
+        },
+        {
+            "en": "SOCIAL MEDIA ANALYTICS",
+            "ar": "تحليل أداء السوشيال ميديا"
+        },
+        {
+            "en": "SOCIAL MEDIA GROWTH",
+            "ar": "تنمية ونمو الحسابات"
+        }
     ],
     "experience": [
         {
-            "title": "Social Media & Content Specialist",
-            "date": "Sep 2025 - Oct 2026",
-            "location": "Al-Tayseer International - Makkah, Saudi Arabia",
+            "title": {
+                "en": "Social Media & Content Specialist",
+                "ar": "أخصائي سوشيال ميديا ومحتوى"
+            },
+            "date": {
+                "en": "Sep 2025 - Oct 2026",
+                "ar": "سبتمبر 2025 - أكتوبر 2026"
+            },
+            "location": {
+                "en": "Al-Tayseer International - Makkah, Saudi Arabia",
+                "ar": "التيسير إنترناشيونال - مكة المكرمة، المملكة العربية السعودية"
+            },
             "detailes": [
-                "Managed the company's social media platforms and developed content focused on audience growth, engagement, and hotel booking inquiries.",
-                "Researched and developed new content ideas, wrote video scripts, and transformed concepts into engaging short-form videos.",
-                "Created hotel review, educational, and informational content tailored to the target audience.",
-                "Published and managed content across the company's social media platforms.",
-                "Monitored Stories, comments, and direct messages, directing potential customers toward the company's booking channels.",
-                "Prepared monthly content performance reports, covering published content, top-performing/viral content, performance insights, and new content ideas.",
-                "Analyzed content performance and continuously developed new formats and ideas to improve reach, views, engagement, and follower growth."
+                {
+                    "en": "Managed the company's social media platforms and developed content focused on audience growth, engagement, and hotel booking inquiries.",
+                    "ar": "إدارة منصات التواصل الاجتماعي للشركة وتطوير محتوى يركز على نمو الجمهور، وزيادة التفاعل، واستفسارات حجز الفنادق."
+                },
+                {
+                    "en": "Researched and developed new content ideas, wrote video scripts, and transformed concepts into engaging short-form videos.",
+                    "ar": "البحث عن أفكار جديدة للمحتوى وتطويرها، وكتابة سيناريوهات الفيديو، وتحويل الأفكار إلى فيديوهات قصيرة جذابة."
+                },
+                {
+                    "en": "Created hotel review, educational, and informational content tailored to the target audience.",
+                    "ar": "إنشاء محتوى عن مراجعات الفنادق، والمحتوى التعليمي والمعلوماتي، بما يتناسب مع الجمهور المستهدف."
+                },
+                {
+                    "en": "Published and managed content across the company's social media platforms.",
+                    "ar": "نشر وإدارة المحتوى عبر منصات التواصل الاجتماعي الخاصة بالشركة."
+                },
+                {
+                    "en": "Monitored Stories, comments, and direct messages, directing potential customers toward the company's booking channels.",
+                    "ar": "متابعة القصص والتعليقات والرسائل المباشرة، وتوجيه العملاء المحتملين إلى قنوات الحجز الخاصة بالشركة."
+                },
+                {
+                    "en": "Prepared monthly content performance reports, covering published content, top-performing/viral content, performance insights, and new content ideas.",
+                    "ar": "إعداد تقارير شهرية عن أداء المحتوى، تشمل المحتوى المنشور، والمحتوى الأعلى أداءً والفيرال، وتحليل النتائج، وأفكار المحتوى الجديدة."
+                },
+                {
+                    "en": "Analyzed content performance and continuously developed new formats and ideas to improve reach, views, engagement, and follower growth.",
+                    "ar": "تحليل أداء المحتوى وتطوير أفكار وأشكال جديدة بشكل مستمر لتحسين الوصول، والمشاهدات، والتفاعل، ونمو عدد المتابعين."
+                }
             ]
         },
         {
-            "title": "Social Media Specialist",
-            "date": "Jan 2026 - May 2026",
-            "location": "ARM Gold - Makkah, Saudi Arabia",
+            "title": {
+                "en": "Social Media Specialist",
+                "ar": "أخصائي سوشيال ميديا"
+            },
+            "date": {
+                "en": "Jan 2026 - May 2026",
+                "ar": "يناير 2026 - مايو 2026"
+            },
+            "location": {
+                "en": "ARM Gold - Makkah, Saudi Arabia",
+                "ar": "ARM Gold - مكة المكرمة، المملكة العربية السعودية"
+            },
             "detailes": [
-                "Managed multiple social media accounts across different platforms for a hotel booking company specializing in Makkah and Madinah.",
-                "Developed and executed content ideas, from concept and scripting to video production and publishing.",
-                "Created short-form content including hotel reviews, informational content, and audience-focused videos.",
-                "Managed daily publishing, Stories, comments, and direct messages across multiple accounts and platforms.",
-                "Responded to customer inquiries and directed potential customers toward the company's booking channels."
+                {
+                    "en": "Managed multiple social media accounts across different platforms for a hotel booking company specializing in Makkah and Madinah.",
+                    "ar": "إدارة عدة حسابات على منصات التواصل الاجتماعي المختلفة لشركة متخصصة في حجوزات الفنادق في مكة والمدينة."
+                },
+                {
+                    "en": "Developed and executed content ideas, from concept and scripting to video production and publishing.",
+                    "ar": "تطوير وتنفيذ أفكار المحتوى بدءًا من الفكرة وكتابة السيناريو وحتى إنتاج الفيديو والنشر."
+                },
+                {
+                    "en": "Created short-form content including hotel reviews, informational content, and audience-focused videos.",
+                    "ar": "إنشاء محتوى قصير يتضمن مراجعات الفنادق، والمحتوى المعلوماتي، والفيديوهات الموجهة للجمهور المستهدف."
+                },
+                {
+                    "en": "Managed daily publishing, Stories, comments, and direct messages across multiple accounts and platforms.",
+                    "ar": "إدارة النشر اليومي، والقصص، والتعليقات، والرسائل المباشرة عبر عدة حسابات ومنصات."
+                },
+                {
+                    "en": "Responded to customer inquiries and directed potential customers toward the company's booking channels.",
+                    "ar": "الرد على استفسارات العملاء وتوجيه العملاء المحتملين إلى قنوات الحجز الخاصة بالشركة."
+                }
             ]
         },
         {
-            "title": "Social Media & Content Specialist",
-            "date": "Jul 2026 - Present",
-            "location": "Bawabt Alhojozat - Kafr El-Sheikh, Egypt",
+            "title": {
+                "en": "Social Media & Content Specialist",
+                "ar": "أخصائي سوشيال ميديا ومحتوى"
+            },
+            "date": {
+                "en": "Jul 2026 - Present",
+                "ar": "يوليو 2026 - حتى الآن"
+            },
+            "location": {
+                "en": "Bawabt Alhojozat - Kafr El-Sheikh, Egypt",
+                "ar": "بوابة الحجوزات - كفر الشيخ، مصر"
+            },
             "detailes": [
-                "Manage the company's social media presence across TikTok and Instagram, focusing on audience growth, engagement, and hotel booking inquiries.",
-                "Create and publish daily short-form Reels featuring hotel reviews, Makkah and Madinah hotel coverage, travel tips, and informational content.",
-                "Develop and execute new content ideas tailored to the target audience and the company's hotel booking services.",
-                "Handle daily content publishing, Stories, comments, and direct messages across both platforms.",
-                "Monitor audience interactions and respond to customer inquiries, directing potential customers toward the company's booking channels."
+                {
+                    "en": "Manage the company's social media presence across TikTok and Instagram, focusing on audience growth, engagement, and hotel booking inquiries.",
+                    "ar": "إدارة الحضور الرقمي للشركة على تيك توك وإنستجرام، مع التركيز على نمو الجمهور، وزيادة التفاعل، واستفسارات حجز الفنادق."
+                },
+                {
+                    "en": "Create and publish daily short-form Reels featuring hotel reviews, Makkah and Madinah hotel coverage, travel tips, and informational content.",
+                    "ar": "إنشاء ونشر فيديوهات قصيرة يومية تتضمن مراجعات الفنادق، وتغطية فنادق مكة والمدينة، ونصائح السفر، والمحتوى المعلوماتي."
+                },
+                {
+                    "en": "Develop and execute new content ideas tailored to the target audience and the company's hotel booking services.",
+                    "ar": "تطوير وتنفيذ أفكار جديدة للمحتوى بما يتناسب مع الجمهور المستهدف وخدمات حجز الفنادق التي تقدمها الشركة."
+                },
+                {
+                    "en": "Handle daily content publishing, Stories, comments, and direct messages across both platforms.",
+                    "ar": "إدارة النشر اليومي للمحتوى، والقصص، والتعليقات، والرسائل المباشرة عبر المنصتين."
+                },
+                {
+                    "en": "Monitor audience interactions and respond to customer inquiries, directing potential customers toward the company's booking channels.",
+                    "ar": "متابعة تفاعل الجمهور والرد على استفسارات العملاء، وتوجيه العملاء المحتملين إلى قنوات الحجز الخاصة بالشركة."
+                }
             ]
         }
     ],
     "content": {
         "name": "Abdelwahab MO.",
-        "home breef": "An Egypt-based Social Media & Content Specialist focused on creating engaging content, managing social media platforms, and driving growth through creative and data-driven strategies.",
-        "case breef": "A selection of social media accounts I managed, developed, and grew through content creation, social media management, and performance-driven strategies.",
-        "about header": "I am a Social Media & Content Specialist based in Egypt. I have an Electrical & Computer Engineering background.",
-        "about content": "I'm a Social Media & Content Specialist from Egypt with a background in Electrical and Computer Engineering. I specialize in creating and developing social media content, video editing, platform management, community engagement, and performance analysis. I enjoy turning ideas into engaging content and using insights and results to continuously improve social media performance. Always eager to learn, experiment with new ideas, and grow in the digital content and social media field.",
-        "capabilities": "I specialize in social media management and content creation, combining creative ideas, engaging content, and data-driven insights to build and grow social media presence. I work across content development, video production, community management, performance analysis, and the tools and platforms that bring each idea to life.",
+        "home breef": {
+            "en": "An Egypt-based Social Media & Content Specialist focused on creating engaging content, managing social media platforms, and driving growth through creative and data-driven strategies.",
+            "ar": "أخصائي سوشيال ميديا ومحتوى من مصر، متخصص في إنشاء محتوى جذاب، وإدارة منصات التواصل الاجتماعي، وتحقيق النمو من خلال استراتيجيات إبداعية قائمة على البيانات."
+        },
+        "case breef": {
+            "en": "A selection of social media accounts I managed, developed, and grew through content creation, social media management, and performance-driven strategies.",
+            "ar": "مجموعة من حسابات التواصل الاجتماعي التي أدرتها وطورتها وساهمت في نموها من خلال إنشاء المحتوى، وإدارة منصات التواصل الاجتماعي، واستراتيجيات تعتمد على الأداء والنتائج."
+        },
+        "about header": {
+            "en": "I am a Social Media & Content Specialist based in Egypt. I have an Electrical & Computer Engineering background.",
+            "ar": "أنا أخصائي سوشيال ميديا ومحتوى من مصر، ولدي خلفية في هندسة الكهرباء وهندسة الحاسبات."
+        },
+        "about content": {
+            "en": "I'm a Social Media & Content Specialist from Egypt with a background in Electrical and Computer Engineering. I specialize in creating and developing social media content, video editing, platform management, community engagement, and performance analysis. I enjoy turning ideas into engaging content and using insights and results to continuously improve social media performance. Always eager to learn, experiment with new ideas, and grow in the digital content and social media field.",
+            "ar": "أنا أخصائي سوشيال ميديا ومحتوى من مصر، ولدي خلفية في هندسة الكهرباء وهندسة الحاسبات. أتخصص في إنشاء وتطوير محتوى السوشيال ميديا، وتحرير الفيديوهات، وإدارة المنصات، والتفاعل مع الجمهور، وتحليل الأداء. أستمتع بتحويل الأفكار إلى محتوى جذاب، واستخدام البيانات والنتائج لتطوير أداء منصات التواصل الاجتماعي بشكل مستمر. وأسعى دائمًا للتعلم، وتجربة أفكار جديدة، والتطور في مجال المحتوى الرقمي والسوشيال ميديا."
+        },
+        "capabilities": {
+            "en": "I specialize in social media management and content creation, combining creative ideas, engaging content, and data-driven insights to build and grow social media presence. I work across content development, video production, community management, performance analysis, and the tools and platforms that bring each idea to life.",
+            "ar": "أتخصص في إدارة منصات التواصل الاجتماعي وإنشاء المحتوى، من خلال الجمع بين الأفكار الإبداعية، والمحتوى الجذاب، والرؤى المستندة إلى البيانات لبناء وتطوير الحضور الرقمي على منصات التواصل الاجتماعي. أعمل في مجالات تطوير المحتوى، وإنتاج الفيديو، وإدارة تفاعل الجمهور، وتحليل الأداء، بالإضافة إلى استخدام الأدوات والمنصات التي تحول كل فكرة إلى محتوى فعلي."
+        },
         "email": "abdelwahab.mohamedd743@gmail.com"
     },
     "tools": [
