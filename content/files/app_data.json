@@ -11,82 +11,163 @@
     },
     "case studies": [
         {
-            "title": "Al-Tayseer International",
-            "subtitle": "Social Media Management & Content Creation",
-            "category": "Hospitality & Hotel Booking",
-            "duration": "1 Year & 2 Months",
+            "title": {
+                "en": "Al-Tayseer International",
+                "ar": "التيسير إنترناشيونال"
+            },
+            "subtitle": {
+                "en": "Social Media Management & Content Creation",
+                "ar": "إدارة السوشيال ميديا وصناعة المحتوى"
+            },
+            "category": {
+                "en": "Hospitality & Hotel Booking",
+                "ar": "الضيافة وحجوزات الفنادق"
+            },
+            "duration": {
+                "en": "1 Year & 2 Months",
+                "ar": "سنة وشهرين"
+            },
             "logo": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/logo.jpg",
-            "overview": "Managed social media pages, produced daily content, and developed content strategies focused on growing the online presence of a hotel booking company specializing in Makkah and Madinah.",
+            "overview": {
+                "en": "Managed social media pages, produced daily content, and developed content strategies focused on growing the online presence of a hotel booking company specializing in Makkah and Madinah.",
+                "ar": "إدارة صفحات السوشيال ميديا، وإنتاج محتوى يومي، وتطوير استراتيجيات محتوى تهدف إلى تعزيز الحضور الرقمي لشركة متخصصة في حجوزات الفنادق في مكة المكرمة والمدينة المنورة."
+            },
             "role": [
-                "Content Creation",
-                "Video Editing",
-                "Content Ideas",
-                "Publishing",
-                "Community Management",
-                "Growth"
+                {
+                    "en": "Content Creation",
+                    "ar": "صناعة المحتوى"
+                },
+                {
+                    "en": "Video Editing",
+                    "ar": "مونتاج الفيديو"
+                },
+                {
+                    "en": "Content Ideas",
+                    "ar": "ابتكار أفكار المحتوى"
+                },
+                {
+                    "en": "Publishing",
+                    "ar": "نشر المحتوى"
+                },
+                {
+                    "en": "Community Management",
+                    "ar": "إدارة تفاعل الجمهور"
+                },
+                {
+                    "en": "Growth",
+                    "ar": "تنمية الحسابات"
+                }
             ],
             "contentItems": [
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/1.png",
-                    "platform": "Instagram Reel",
-                    "title": "The cheapest 5-star hotel among the Clock Tower hotels.",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "The cheapest 5-star hotel among the Clock Tower hotels.",
+                        "ar": "أرخص فندق 5 نجوم بين فنادق أبراج الساعة"
+                    },
                     "views": "1.1M Views",
                     "link": "https://www.instagram.com/reels/DZXpG66jVR4/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/2.png",
-                    "platform": "Instagram Reel",
-                    "title": "Imagine staying at a hotel overlooking the Haram at an incredible price.",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "Imagine staying at a hotel overlooking the Haram at an incredible price.",
+                        "ar": "تخيل تقيم في فندق بإطلالة على الحرم بسعر خيالي"
+                    },
                     "views": "757K Views",
                     "link": "https://www.instagram.com/reels/DU86UZBDPuX/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/3.png",
-                    "platform": "Instagram Reel",
-                    "title": "The 4 Best Apps to Help You with Umrah",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "The 4 Best Apps to Help You with Umrah",
+                        "ar": "أفضل 4 تطبيقات هتساعدك في العمرة"
+                    },
                     "views": "429K Views",
                     "link": "https://www.instagram.com/reels/DQRnCO-ikq7/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/4.png",
-                    "platform": "Instagram Reel",
-                    "title": "One of the hotels that every pilgrim wishes they knew about before booking.",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "One of the hotels that every pilgrim wishes they knew about before booking.",
+                        "ar": "فندق كل معتمر يتمنى لو كان عرفه قبل ما يحجز"
+                    },
                     "views": "120K Views",
                     "link": "https://www.instagram.com/reels/Dbn1FD_gsou/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/5.png",
-                    "platform": "Instagram Reel",
-                    "title": "Here, the best of mankind was born… in Makkah Al-Mukarramah.",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "Here, the best of mankind was born… in Makkah Al-Mukarramah.",
+                        "ar": "هنا وُلد خير البشر… في مكة المكرمة"
+                    },
                     "views": "74.4K Views",
                     "link": "https://www.instagram.com/reels/Dcd5nQmikD5/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/altayseer/content/6.PNG",
-                    "platform": "Instagram Reel",
-                    "title": "Suite Tour",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "Suite Tour",
+                        "ar": "جولة داخل الجناح الفندقي"
+                    },
                     "views": "41K Views",
                     "link": "https://www.instagram.com/reels/DbFymmWlaKz/"
                 }
             ],
             "results": {
                 "views": {
-                    "title": "Views",
+                    "title": {
+                        "en": "Views",
+                        "ar": "المشاهدات"
+                    },
                     "before": "9.96M",
                     "after": "36.1M"
                 },
                 "followers": {
-                    "title": "Followers",
+                    "title": {
+                        "en": "Followers",
+                        "ar": "المتابعون"
+                    },
                     "before": "76.2K",
                     "after": "224K"
                 },
                 "reach": {
-                    "title": "Viewers",
+                    "title": {
+                        "en": "Viewers",
+                        "ar": "الوصول"
+                    },
                     "before": "1.76M",
                     "after": "10.8M"
                 },
                 "engagement": {
-                    "title": "Engagement",
+                    "title": {
+                        "en": "Engagement",
+                        "ar": "التفاعل"
+                    },
                     "before": "310.7K",
                     "after": "969.2K"
                 }
@@ -109,82 +190,163 @@
             }
         },
         {
-            "title": "Bawabt Alhojozat",
-            "subtitle": "Social Media Specialist",
-            "category": "Hospitality",
-            "duration": "3 Months",
+            "title": {
+                "en": "Bawabt Alhojozat",
+                "ar": "بوابة الحجوزات"
+            },
+            "subtitle": {
+                "en": "Social Media Specialist",
+                "ar": "أخصائي سوشيال ميديا"
+            },
+            "category": {
+                "en": "Hospitality",
+                "ar": "الضيافة"
+            },
+            "duration": {
+                "en": "3 Months",
+                "ar": "3 شهور"
+            },
             "logo": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/logo.jpeg",
-            "overview": "Managed social media pages, created daily content, and developed growth strategies for a hotel booking company specializing in Makkah and Madinah.",
+            "overview": {
+                "en": "Managed social media pages, created daily content, and developed growth strategies for a hotel booking company specializing in Makkah and Madinah.",
+                "ar": "إدارة صفحات السوشيال ميديا، وإنشاء محتوى يومي، وتطوير استراتيجيات لنمو الحسابات لشركة متخصصة في حجوزات الفنادق في مكة المكرمة والمدينة المنورة."
+            },
             "role": [
-                "Content Creation",
-                "Video Editing",
-                "Content Ideas",
-                "Publishing",
-                "Community Management",
-                "Growth"
+                {
+                    "en": "Content Creation",
+                    "ar": "صناعة المحتوى"
+                },
+                {
+                    "en": "Video Editing",
+                    "ar": "مونتاج الفيديو"
+                },
+                {
+                    "en": "Content Ideas",
+                    "ar": "ابتكار أفكار المحتوى"
+                },
+                {
+                    "en": "Publishing",
+                    "ar": "نشر المحتوى"
+                },
+                {
+                    "en": "Community Management",
+                    "ar": "إدارة تفاعل الجمهور"
+                },
+                {
+                    "en": "Growth",
+                    "ar": "تنمية الحسابات"
+                }
             ],
             "contentItems": [
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/1.PNG",
-                    "platform": "TikTok Reel",
-                    "title": "If you have children and are coming for Umrah, where will you leave them?",
-                    "views": "450K",
+                    "platform": {
+                        "en": "TikTok Reel",
+                        "ar": "فيديو تيك توك"
+                    },
+                    "title": {
+                        "en": "If you have children and are coming for Umrah, where will you leave them?",
+                        "ar": "لو معاك أطفال وجاي تعمل عمرة، هتسيبهم فين؟"
+                    },
+                    "views": "450K Views",
                     "link": "https://vt.tiktok.com/ZSbCD3sLm/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/2.PNG",
-                    "platform": "TikTok Reel",
-                    "title": "Make sure to increase your engagement in two things.",
-                    "views": "253.5K",
+                    "platform": {
+                        "en": "TikTok Reel",
+                        "ar": "فيديو تيك توك"
+                    },
+                    "title": {
+                        "en": "Make sure to increase your engagement in two things.",
+                        "ar": "ركز على حاجتين علشان تزود التفاعل عندك"
+                    },
+                    "views": "253.5K Views",
                     "link": "https://vt.tiktok.com/ZSbCDnjUw/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/5.PNG",
-                    "platform": "Instahram Reel",
-                    "title": "Do not drink Zamzam water until after reciting this Duaa.",
-                    "views": "98.7K",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "Do not drink Zamzam water until after reciting this Duaa.",
+                        "ar": "ما تشربش مية زمزم قبل ما تقول الدعاء ده"
+                    },
+                    "views": "98.7K Views",
                     "link": "https://www.instagram.com/reels/DdyrZXZIIw8/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/3.PNG",
-                    "platform": "Instagram Reel",
-                    "title": "The cheapest hotel with a view among the Clock Tower hotels.",
-                    "views": "97.5K",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "The cheapest hotel with a view among the Clock Tower hotels.",
+                        "ar": "أرخص فندق بإطلالة مميزة بين فنادق أبراج الساعة"
+                    },
+                    "views": "97.5K Views",
                     "link": "https://www.instagram.com/reels/DcD9IWkIIvY/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/4.PNG",
-                    "platform": "TikTok Reel",
-                    "title": "A neglected Sunnah of the Prophet.",
-                    "views": "80.7K",
+                    "platform": {
+                        "en": "TikTok Reel",
+                        "ar": "فيديو تيك توك"
+                    },
+                    "title": {
+                        "en": "A neglected Sunnah of the Prophet.",
+                        "ar": "سُنّة نبوية ناس كتير غافلة عنها"
+                    },
+                    "views": "80.7K Views",
                     "link": "https://vt.tiktok.com/ZSbCDtAnY/"
                 },
                 {
                     "image": "https://abdelwahab494.github.io/Social-Media-Specialist/content/images/case-studies/bawaba/content/6.PNG",
-                    "platform": "Instagram Reel",
-                    "title": "When you first enter the Haram and see the Kaaba... what do you say?",
-                    "views": "60.1K",
+                    "platform": {
+                        "en": "Instagram Reel",
+                        "ar": "ريلز إنستجرام"
+                    },
+                    "title": {
+                        "en": "When you first enter the Haram and see the Kaaba... what do you say?",
+                        "ar": "أول ما تدخل الحرم وتشوف الكعبة... تقول إيه؟"
+                    },
+                    "views": "60.1K Views",
                     "link": "https://www.instagram.com/reels/DdT0z5ZIra5/"
                 }
             ],
             "results": {
                 "views": {
-                    "title": "Views",
+                    "title": {
+                        "en": "Views",
+                        "ar": "المشاهدات"
+                    },
                     "before": "0",
                     "after": "2.49M"
                 },
                 "followers": {
-                    "title": "Followers",
+                    "title": {
+                        "en": "Followers",
+                        "ar": "المتابعون"
+                    },
                     "before": "0",
                     "after": "9.7K"
                 },
                 "reach": {
-                    "title": "Reach",
+                    "title": {
+                        "en": "Reach",
+                        "ar": "الوصول"
+                    },
                     "before": "0",
                     "after": "1.15M"
                 },
                 "engagement": {
-                    "title": "Engagement",
+                    "title": {
+                        "en": "Engagement",
+                        "ar": "التفاعل"
+                    },
                     "before": "0",
                     "after": "137K"
                 }
